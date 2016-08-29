@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: My development as a Dev
 header-img: img/home-bg.png
 email: leongzeno@gmail.com
 copyright_name: KentLeong
 description: > # this means to ignore newlines until "baseurl:"
-  
+  =)
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  KentLeong
